@@ -1,5 +1,11 @@
 # Books Scraper
 
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-containerized-2496ED?logo=docker&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup4-scraping-43B02A)
+![pandas](https://img.shields.io/badge/pandas-data-150458?logo=pandas&logoColor=white)
+![Status](https://img.shields.io/badge/status-concluído-success)
+
 Scraper desenvolvido em Python para coletar dados de livros do site [books.toscrape.com](https://books.toscrape.com).
 
 ## Funcionalidades
